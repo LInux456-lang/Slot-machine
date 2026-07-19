@@ -25,17 +25,17 @@ The program generates three random numbers between 0 and 5. If the three numbers
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+git clone https://github.com/LInux456-lang/Slot-machine.git
 ```
 
 2. Navigate to the folder:
 ```bash
-cd YOUR_REPOSITORY
+cd YOUR_Slot-machine
 ```
 
 3. Run the program:
 ```bash
-python main.py
+python v.0.1.py
 ```
 
 ## Objective
